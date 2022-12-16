@@ -1,0 +1,11 @@
+RewriteEngine on
+
+RewriteRule ^teacher/([A-Za-z]+)/? functionality/teacher/$1.php
+RewriteRule ^student/([A-Za-z]+)/? functionality/student/$1.php
+RewriteRule ^classes/([A-Za-z]+)/? functionality/classes/$1.php
+RewriteRule ^account/([A-Za-z]+)/? functionality/account/$1.php
+RewriteRule ^results/([A-Za-z]+)/? functionality/results/$1.php
+RewriteRule ^averageResult/([A-Za-z]+)/? functionality/averagResult/$1.php
+RewriteRule ^subject/([A-Za-z]+)/? functionality/subject/$1.php
+RewriteRule ^subscription/([A-Za-z]+)/? functionality/subscription/$1.php
+RewriteRule ^absence/([A-Za-z]+)/? functionality/absence/$1.php

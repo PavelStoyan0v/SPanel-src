@@ -1,0 +1,119 @@
+[23-Jan-2018 20:46:21 Europe/Sofia] PHP Warning:  include(../template/nav.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/student/add.php on line 17
+[23-Jan-2018 20:46:21 Europe/Sofia] PHP Warning:  include(): Failed opening '../template/nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/student/add.php on line 17
+[23-Jan-2018 20:49:52 Europe/Sofia] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/spanelpw/public_html/class/model.php on line 9
+[23-Jan-2018 20:49:52 Europe/Sofia] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/spanelpw/public_html/class/model.php on line 9
+[23-Jan-2018 20:49:52 Europe/Sofia] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/spanelpw/public_html/class/model.php on line 28
+[23-Jan-2018 20:49:52 Europe/Sofia] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/spanelpw/public_html/class/model.php on line 28
+[23-Jan-2018 20:49:52 Europe/Sofia] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/spanelpw/public_html/class/model.php on line 28
+[23-Jan-2018 20:49:52 Europe/Sofia] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/spanelpw/public_html/class/model.php on line 28
+[23-Jan-2018 20:49:52 Europe/Sofia] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/spanelpw/public_html/class/model.php on line 28
+[23-Jan-2018 20:49:52 Europe/Sofia] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/spanelpw/public_html/class/model.php on line 28
+[23-Jan-2018 22:05:14 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/spanelpw/public_html/class/Db.php on line 260
+[24-Jan-2018 22:38:12 Europe/Sofia] PHP Parse error:  syntax error, unexpected '{' in /home/spanelpw/public_html/functionality/student/addfunctionality.php on line 15
+[24-Jan-2018 22:43:06 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_userId'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(25): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/Db.php(238): Db->userdb('userId')
+#2 /home/spanelpw/public_html/functionality/student/addfunctionality.php(17): Db->insertStudent('58', 'eqweqweqweqweq', 'weqwweqweqweqw', 'az23634@gmail.c...', '21212112', '4\xD0\xB1', 'eqweqweqwweqw')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[24-Jan-2018 22:43:13 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_userId'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(25): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/Db.php(238): Db->userdb('userId')
+#2 /home/spanelpw/public_html/functionality/student/addfunctionality.php(17): Db->insertStudent('58', 'eqweqweqweqweq', 'weqwweqweqweqw', 'az23634@gmail.c...', '21212112', '4\xD0\xB1', 'eqweqweqwweqw')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[24-Jan-2018 22:44:14 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_userId'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(25): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/Db.php(238): Db->userdb('userId')
+#2 /home/spanelpw/public_html/functionality/student/addfunctionality.php(17): Db->insertStudent('58', 'wqeqweqweqweqwe', 'qweqweeqweqww', 'az23634@gmail.c...', '21212112', '4\xD0\xB1', 'qweqweqweqw')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[24-Jan-2018 22:46:51 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$insertTeacher' (T_VARIABLE) in /home/spanelpw/public_html/functionality/student/addfunctionality.php on line 17
+[24-Jan-2018 22:47:28 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_userId'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(25): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/Db.php(238): Db->userdb('userId')
+#2 /home/spanelpw/public_html/functionality/student/addfunctionality.php(17): Db->insertStudent('58', 'qwweqweqwe', 'qweqqeqwe', 'az23634@gmail.c...', '21212112', '4b', 'qweqweqweqwe')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[24-Jan-2018 22:47:44 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_userId'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(25): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/Db.php(238): Db->userdb('userId')
+#2 /home/spanelpw/public_html/functionality/student/addfunctionality.php(17): Db->insertStudent('58', 'qeqeqweqeq', 'eeqeqweqweqwwe', 'az23634w@gmail....', '21212112w', '4b', 'qweqweqweqwe')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[24-Jan-2018 22:49:03 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_userId'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(25): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/Db.php(238): Db->userdb('userId')
+#2 /home/spanelpw/public_html/functionality/student/addfunctionality.php(17): Db->insertStudent('58', 'qweqweqweqwe', 'qweqweeqweqwe', 'az23634@gmail.c...', '21212112', '4b', 'qweqweeqweqwe')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[24-Jan-2018 22:49:21 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_userId'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(25): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/Db.php(238): Db->userdb('userId')
+#2 /home/spanelpw/public_html/functionality/student/addfunctionality.php(17): Db->insertStudent('58', 'qweqweqweqwe', 'qweqweqwqeeqwew...', 'az23634@gmail.c...', '21212112', '4b', 'qweqwqweqwe')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[24-Jan-2018 22:49:38 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_userId'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(25): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/Db.php(238): Db->userdb('userId')
+#2 /home/spanelpw/public_html/functionality/student/addfunctionality.php(17): Db->insertStudent('58', 'qweqweqweqwe', 'qweqweqwqeeqwew...', 'az23634@gmail.c...', '21212112', '4b', 'qweqwqweqwe')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[24-Jan-2018 22:50:01 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_userId'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(25): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/Db.php(238): Db->userdb('userId')
+#2 /home/spanelpw/public_html/functionality/student/addfunctionality.php(17): Db->insertStudent('58', 'asdsdsd', 'ddddddddd', 'az23634@gmail.c...', '21212112', '4b', '065535334253254')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[24-Jan-2018 22:50:24 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_userId'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(25): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/Db.php(238): Db->userdb('userId')
+#2 /home/spanelpw/public_html/functionality/student/addfunctionality.php(17): Db->insertStudent('58', 'asdsadsdasd', 'assdasdassd', 'az23634@gmail.c...', '21212112', '4b', '089656845235')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[24-Jan-2018 22:50:45 Europe/Sofia] PHP Fatal error:  Call to a member function schoolProgram() on null in /home/spanelpw/public_html/class/Db.php on line 255
+[24-Jan-2018 22:52:29 Europe/Sofia] PHP Fatal error:  Call to a member function schoolProgram() on null in /home/spanelpw/public_html/class/Db.php on line 255
+[24-Jan-2018 22:55:59 Europe/Sofia] PHP Fatal error:  Call to a member function schoolProgram() on null in /home/spanelpw/public_html/class/Db.php on line 255
+[25-Jan-2018 17:01:14 Europe/Sofia] PHP Fatal error:  Call to a member function schoolProgram() on null in /home/spanelpw/public_html/class/Db.php on line 255
+[25-Jan-2018 17:03:14 Europe/Sofia] PHP Fatal error:  Call to a member function schoolProgra() on null in /home/spanelpw/public_html/class/Db.php on line 255
+[25-Jan-2018 17:05:24 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:03 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:18 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:18 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:19 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:34 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:35 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:35 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:36 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:37 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:38 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:38 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:39 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:39 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:39 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:40 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:40 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:58 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:58 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:06:59 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:07:00 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 17:08:35 Europe/Sofia] PHP Fatal error:  Call to a member function schoolProgram() on null in /home/spanelpw/public_html/class/Db.php on line 256
+[25-Jan-2018 17:11:35 Europe/Sofia] PHP Fatal error:  Call to a member function userdb() on null in /home/spanelpw/public_html/class/schoolProgram.php on line 120
+[25-Jan-2018 17:21:04 Europe/Sofia] PHP Fatal error:  Call to a member function userdb() on null in /home/spanelpw/public_html/class/schoolProgram.php on line 120
+[25-Jan-2018 17:21:52 Europe/Sofia] PHP Fatal error:  Call to a member function userdb() on null in /home/spanelpw/public_html/class/schoolProgram.php on line 120
+[25-Jan-2018 18:20:58 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 18:24:47 Europe/Sofia] PHP Fatal error:  Cannot redeclare class Db in /home/spanelpw/public_html/class/Db.php on line 5
+[25-Jan-2018 19:21:52 Europe/Sofia] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/spanelpw/public_html/class/Db.php on line 255
+[25-Jan-2018 19:21:52 Europe/Sofia] PHP Fatal error:  Call to a member function userdb() on null in /home/spanelpw/public_html/class/schoolProgram.php on line 120
+[25-Jan-2018 19:22:48 Europe/Sofia] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, object given in /home/spanelpw/public_html/class/Db.php on line 255
+[25-Jan-2018 19:22:48 Europe/Sofia] PHP Fatal error:  Call to a member function userdb() on null in /home/spanelpw/public_html/class/schoolProgram.php on line 120

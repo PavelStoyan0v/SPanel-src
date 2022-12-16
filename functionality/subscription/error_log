@@ -1,0 +1,67 @@
+[11-Jan-2018 16:56:32 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[11-Jan-2018 16:56:39 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[11-Jan-2018 17:08:52 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[12-Jan-2018 13:17:12 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[12-Jan-2018 13:22:08 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(23): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/functionality/subscription/expired.php(7): Subscription->getLatest(NULL)
+#2 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[12-Jan-2018 13:27:13 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[16-Jan-2018 00:46:22 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(23): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/functionality/subscription/expired.php(7): Subscription->getLatest(NULL)
+#2 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[09-Mar-2018 11:18:56 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[09-Mar-2018 11:18:56 Europe/Sofia] PHP Warning:  Illegal string offset 'id' in /home/spanelpw/public_html/class/Db.php on line 32
+[09-Mar-2018 11:18:56 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_0'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(26): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/Db.php(33): Db->userdb('0')
+#2 /home/spanelpw/public_html/functionality/subscription/verify.php(24): Db->insertSubscription('active', '2018-03-09', '2018-04-09', '0', Array)
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[09-Mar-2018 11:20:12 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[09-Mar-2018 11:20:12 Europe/Sofia] PHP Warning:  Illegal string offset 'id' in /home/spanelpw/public_html/class/Db.php on line 32
+[09-Mar-2018 11:20:12 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_0'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(26): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/Db.php(33): Db->userdb('0')
+#2 /home/spanelpw/public_html/functionality/subscription/verify.php(24): Db->insertSubscription('active', '2018-03-09', '2018-04-09', '0', Array)
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[09-Mar-2018 11:23:09 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[09-Mar-2018 11:23:09 Europe/Sofia] PHP Warning:  Illegal string offset 'id' in /home/spanelpw/public_html/class/Db.php on line 32
+[09-Mar-2018 11:23:09 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_0'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(26): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/Db.php(33): Db->userdb('0')
+#2 /home/spanelpw/public_html/functionality/subscription/verify.php(24): Db->insertSubscription('active', '2018-03-09', '2018-04-09', '0', Array)
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[09-Mar-2018 11:25:03 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[09-Mar-2018 11:25:03 Europe/Sofia] PHP Warning:  Illegal string offset 'id' in /home/spanelpw/public_html/class/Db.php on line 32
+[09-Mar-2018 11:25:03 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_0'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(26): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/Db.php(33): Db->userdb('0')
+#2 /home/spanelpw/public_html/functionality/subscription/verify.php(24): Db->insertSubscription('active', '2018-03-09', '2018-04-09', '0', Array)
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[09-Mar-2018 11:27:14 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[09-Mar-2018 11:27:14 Europe/Sofia] PHP Warning:  Illegal string offset 'id' in /home/spanelpw/public_html/class/Db.php on line 32
+[09-Mar-2018 11:27:14 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_0'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(26): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/Db.php(33): Db->userdb('0')
+#2 /home/spanelpw/public_html/functionality/subscription/verify.php(24): Db->insertSubscription('active', '2018-03-09', '2018-04-09', '0', Array)
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[09-Mar-2018 11:30:08 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[09-Mar-2018 11:30:23 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[09-Mar-2018 11:30:44 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[09-Mar-2018 11:32:35 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[09-Mar-2018 11:36:02 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2

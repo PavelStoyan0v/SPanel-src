@@ -1,0 +1,27 @@
+[23-Feb-2018 21:34:45 Europe/Sofia] PHP Fatal error:  Cannot use object of type AverageResults as array in /home/spanelpw/public_html/functionality/averageResult/functionality.php on line 10
+[23-Feb-2018 21:35:03 Europe/Sofia] PHP Fatal error:  Cannot use object of type AverageResults as array in /home/spanelpw/public_html/functionality/averageResult/functionality.php on line 10
+[23-Feb-2018 22:06:50 Europe/Sofia] PHP Fatal error:  Cannot use object of type AverageResults as array in /home/spanelpw/public_html/functionality/averageResult/functionality.php on line 11
+[23-Feb-2018 22:09:39 Europe/Sofia] PHP Fatal error:  Cannot use object of type AverageResults as array in /home/spanelpw/public_html/functionality/averageResult/functionality.php on line 11
+[23-Feb-2018 22:19:51 Europe/Sofia] PHP Fatal error:  Cannot use object of type AverageResults as array in /home/spanelpw/public_html/functionality/averageResult/functionality.php on line 11
+[23-Feb-2018 23:45:05 Europe/Sofia] PHP Parse error:  syntax error, unexpected ',' in /home/spanelpw/public_html/functionality/averageResult/functionality.php on line 15
+[23-Feb-2018 23:45:35 Europe/Sofia] PHP Parse error:  syntax error, unexpected ',' in /home/spanelpw/public_html/functionality/averageResult/functionality.php on line 15
+[23-Feb-2018 23:46:05 Europe/Sofia] PHP Parse error:  syntax error, unexpected ',' in /home/spanelpw/public_html/functionality/averageResult/functionality.php on line 15
+[23-Feb-2018 23:46:17 Europe/Sofia] PHP Parse error:  syntax error, unexpected ',' in /home/spanelpw/public_html/functionality/averageResult/functionality.php on line 15
+[23-Feb-2018 23:47:24 Europe/Sofia] PHP Parse error:  syntax error, unexpected ',' in /home/spanelpw/public_html/functionality/averageResult/functionality.php on line 15
+[23-Feb-2018 23:47:40 Europe/Sofia] PHP Parse error:  syntax error, unexpected ',' in /home/spanelpw/public_html/functionality/averageResult/functionality.php on line 15
+[23-Feb-2018 23:49:01 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/spanelpw/public_html/functionality/averageResult/functionality.php on line 23
+[24-Feb-2018 15:05:51 Europe/Sofia] PHP Warning:  Division by zero in /home/spanelpw/public_html/class/AverageResults.php on line 52
+[24-Feb-2018 15:10:22 Europe/Sofia] PHP Warning:  Division by zero in /home/spanelpw/public_html/class/AverageResults.php on line 52
+[24-Feb-2018 15:12:18 Europe/Sofia] PHP Warning:  Division by zero in /home/spanelpw/public_html/class/AverageResults.php on line 52
+[24-Feb-2018 15:15:27 Europe/Sofia] PHP Warning:  Division by zero in /home/spanelpw/public_html/class/AverageResults.php on line 52
+[24-Feb-2018 15:21:59 Europe/Sofia] PHP Warning:  Division by zero in /home/spanelpw/public_html/class/AverageResults.php on line 52
+[24-Feb-2018 15:24:31 Europe/Sofia] PHP Warning:  Division by zero in /home/spanelpw/public_html/class/AverageResults.php on line 52
+[24-Feb-2018 15:24:37 Europe/Sofia] PHP Warning:  Division by zero in /home/spanelpw/public_html/class/AverageResults.php on line 52
+[24-Feb-2018 15:25:46 Europe/Sofia] PHP Warning:  Division by zero in /home/spanelpw/public_html/class/AverageResults.php on line 52
+[24-Feb-2018 15:27:02 Europe/Sofia] PHP Warning:  Division by zero in /home/spanelpw/public_html/class/AverageResults.php on line 54
+[24-Feb-2018 15:27:02 Europe/Sofia] PHP Warning:  Division by zero in /home/spanelpw/public_html/class/AverageResults.php on line 54
+[24-Feb-2018 15:27:09 Europe/Sofia] PHP Warning:  Division by zero in /home/spanelpw/public_html/class/AverageResults.php on line 54
+[24-Feb-2018 15:35:54 Europe/Sofia] PHP Warning:  Division by zero in /home/spanelpw/public_html/class/AverageResults.php on line 55
+[24-Feb-2018 15:36:38 Europe/Sofia] PHP Warning:  Division by zero in /home/spanelpw/public_html/class/AverageResults.php on line 55
+[24-Feb-2018 15:36:43 Europe/Sofia] PHP Warning:  Division by zero in /home/spanelpw/public_html/class/AverageResults.php on line 55
+[24-Feb-2018 15:38:09 Europe/Sofia] PHP Warning:  Division by zero in /home/spanelpw/public_html/class/AverageResults.php on line 55

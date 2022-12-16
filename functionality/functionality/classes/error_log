@@ -1,0 +1,83 @@
+[22-Jan-2018 16:26:19 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:26:19 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:26:19 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:26:19 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:26:19 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:26:19 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:26:19 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:26:19 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:26:19 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:26:21 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:26:21 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:26:21 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:34:34 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/spanelpw/public_html/class/Db.php on line 213
+[22-Jan-2018 16:34:58 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/spanelpw/public_html/class/Db.php on line 213
+[22-Jan-2018 16:34:59 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/spanelpw/public_html/class/Db.php on line 213
+[22-Jan-2018 16:34:59 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/spanelpw/public_html/class/Db.php on line 213
+[22-Jan-2018 16:35:00 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/spanelpw/public_html/class/Db.php on line 213
+[22-Jan-2018 16:35:03 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/spanelpw/public_html/class/Db.php on line 213
+[22-Jan-2018 16:35:05 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/spanelpw/public_html/class/Db.php on line 213
+[22-Jan-2018 16:35:05 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/spanelpw/public_html/class/Db.php on line 213
+[22-Jan-2018 16:35:05 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/spanelpw/public_html/class/Db.php on line 213
+[22-Jan-2018 16:35:06 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/spanelpw/public_html/class/Db.php on line 213
+[22-Jan-2018 16:35:06 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/spanelpw/public_html/class/Db.php on line 213
+[22-Jan-2018 16:35:06 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/spanelpw/public_html/class/Db.php on line 213
+[22-Jan-2018 16:35:06 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/spanelpw/public_html/class/Db.php on line 213
+[22-Jan-2018 16:35:07 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/spanelpw/public_html/class/Db.php on line 213
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:34 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:35:35 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:35 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:35 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:35:35 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:35 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:35 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:35:35 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:35 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:35 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:35:40 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:40 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:40 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:35:40 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:40 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:40 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:35:41 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:41 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:41 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:35:41 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:41 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:41 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8
+[22-Jan-2018 16:35:41 Europe/Sofia] PHP Warning:  include_once(../class/model.php): failed to open stream: No such file or directory in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:41 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../class/model.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 3
+[22-Jan-2018 16:35:41 Europe/Sofia] PHP Fatal error:  Class 'Model' not found in /home/spanelpw/public_html/functionality/classes/livesearch.php on line 8

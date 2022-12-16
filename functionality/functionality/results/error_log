@@ -1,0 +1,250 @@
+[27-Jan-2018 22:49:01 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[28-Jan-2018 20:32:23 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[28-Jan-2018 20:52:25 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(26): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/functionality/results/add.php(50): Db->userdb(NULL)
+#2 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[28-Jan-2018 20:53:52 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(26): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/functionality/results/add.php(50): Db->userdb(NULL)
+#2 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[28-Jan-2018 20:54:00 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(26): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/functionality/results/add.php(50): Db->userdb(NULL)
+#2 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[28-Jan-2018 20:54:00 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(26): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/functionality/results/add.php(50): Db->userdb(NULL)
+#2 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[28-Jan-2018 20:54:01 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(26): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/functionality/results/add.php(50): Db->userdb(NULL)
+#2 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[28-Jan-2018 20:54:01 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(26): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/functionality/results/add.php(50): Db->userdb(NULL)
+#2 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[28-Jan-2018 20:54:05 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(26): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/functionality/results/add.php(50): Db->userdb(NULL)
+#2 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[28-Jan-2018 20:54:06 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(26): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/functionality/results/add.php(50): Db->userdb(NULL)
+#2 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[28-Jan-2018 21:40:44 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/addfunctionality.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[28-Jan-2018 21:40:52 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[29-Jan-2018 13:59:40 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[29-Jan-2018 18:48:18 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[29-Jan-2018 21:14:36 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[30-Jan-2018 20:53:27 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[31-Jan-2018 17:43:25 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[31-Jan-2018 17:49:18 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$getStudent' (T_VARIABLE), expecting ',' or ';' in /home/spanelpw/public_html/functionality/results/add.php on line 54
+[31-Jan-2018 17:51:52 Europe/Sofia] PHP Warning:  Missing argument 2 for Db::getStudents(), called in /home/spanelpw/public_html/functionality/results/add.php on line 52 and defined in /home/spanelpw/public_html/class/Db.php on line 256
+[31-Jan-2018 17:52:20 Europe/Sofia] PHP Warning:  Missing argument 2 for Db::getStudents(), called in /home/spanelpw/public_html/functionality/results/add.php on line 52 and defined in /home/spanelpw/public_html/class/Db.php on line 256
+[31-Jan-2018 17:52:49 Europe/Sofia] PHP Warning:  Missing argument 2 for Db::getStudents(), called in /home/spanelpw/public_html/functionality/results/add.php on line 52 and defined in /home/spanelpw/public_html/class/Db.php on line 256
+[02-Feb-2018 11:38:12 Europe/Sofia] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/spanelpw/public_html/class/Db.php on line 261
+[02-Feb-2018 11:40:11 Europe/Sofia] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/spanelpw/public_html/class/Db.php on line 261
+[02-Feb-2018 14:44:27 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[02-Feb-2018 19:05:28 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[02-Feb-2018 20:20:47 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[02-Feb-2018 21:25:23 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[03-Feb-2018 08:35:41 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[03-Feb-2018 10:47:52 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[04-Feb-2018 17:33:07 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[04-Feb-2018 18:52:19 Europe/Sofia] PHP Fatal error:  Call to undefined method Db::getStudents() in /home/spanelpw/public_html/functionality/results/add.php on line 44
+[04-Feb-2018 18:53:44 Europe/Sofia] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/spanelpw/public_html/class/Db.php on line 67
+[04-Feb-2018 18:53:44 Europe/Sofia] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/spanelpw/public_html/class/Db.php on line 67
+[04-Feb-2018 18:53:44 Europe/Sofia] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/spanelpw/public_html/class/Db.php on line 67
+[04-Feb-2018 18:53:44 Europe/Sofia] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/spanelpw/public_html/class/Db.php on line 67
+[04-Feb-2018 18:53:44 Europe/Sofia] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/spanelpw/public_html/class/Db.php on line 67
+[04-Feb-2018 18:53:44 Europe/Sofia] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/spanelpw/public_html/class/Db.php on line 67
+[04-Feb-2018 18:53:44 Europe/Sofia] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/spanelpw/public_html/class/Db.php on line 67
+[04-Feb-2018 18:53:45 Europe/Sofia] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/spanelpw/public_html/class/Db.php on line 67
+[04-Feb-2018 18:53:45 Europe/Sofia] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/spanelpw/public_html/class/Db.php on line 67
+[04-Feb-2018 18:53:45 Europe/Sofia] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/spanelpw/public_html/class/Db.php on line 67
+[04-Feb-2018 21:12:17 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/addfunctionality.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[04-Feb-2018 21:12:21 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[04-Feb-2018 21:15:24 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/spanelpw/public_html/functionality/results/addfunctionality.php on line 25
+[04-Feb-2018 21:30:36 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/spanelpw/public_html/class/Db.php on line 271
+[06-Feb-2018 17:58:18 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/spanelpw/public_html/class/Db.php on line 323
+[06-Feb-2018 17:59:18 Europe/Sofia] PHP Fatal error:  Call to undefined function choose() in /home/spanelpw/public_html/class/Db.php on line 293
+[06-Feb-2018 17:59:48 Europe/Sofia] PHP Fatal error:  Call to undefined function choose() in /home/spanelpw/public_html/class/Db.php on line 293
+[06-Feb-2018 18:00:46 Europe/Sofia] PHP Fatal error:  Call to undefined function choose() in /home/spanelpw/public_html/class/Db.php on line 333
+[06-Feb-2018 18:02:37 Europe/Sofia] PHP Fatal error:  Call to a member function select() on null in /home/spanelpw/public_html/class/Db.php on line 312
+[06-Feb-2018 18:03:24 Europe/Sofia] PHP Fatal error:  Call to a member function select() on null in /home/spanelpw/public_html/class/Db.php on line 312
+[06-Feb-2018 18:03:28 Europe/Sofia] PHP Fatal error:  Call to a member function select() on null in /home/spanelpw/public_html/class/Db.php on line 312
+[06-Feb-2018 18:04:42 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/spanelpw/public_html/class/Db.php on line 314
+[06-Feb-2018 18:06:52 Europe/Sofia] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 231
+[06-Feb-2018 18:08:31 Europe/Sofia] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 293
+[06-Feb-2018 18:12:01 Europe/Sofia] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 231
+[06-Feb-2018 18:13:56 Europe/Sofia] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 231
+[14-Feb-2018 11:32:05 Europe/Sofia] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 231
+[14-Feb-2018 11:33:39 Europe/Sofia] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/spanelpw/public_html/class/Db.php on line 316
+[14-Feb-2018 18:18:28 Europe/Sofia] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 231
+[16-Feb-2018 18:57:16 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[19-Feb-2018 19:29:13 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(16): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/result.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[20-Feb-2018 09:28:32 Europe/Sofia] PHP Fatal error:  Call to undefined method Db::averageScore() in /home/spanelpw/public_html/functionality/results/addfunctionality.php on line 16
+[24-Feb-2018 19:25:12 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(17): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[24-Feb-2018 19:25:25 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(40): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/AllClasses.php(17): Subscription->isActive(NULL)
+#2 /home/spanelpw/public_html/functionality/results/add.php(4): require('/home/spanelpw/...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[24-Feb-2018 19:27:05 Europe/Sofia] PHP Fatal error:  Call to undefined method Db::getAllClasses() in /home/spanelpw/public_html/functionality/results/add.php on line 32
+[24-Feb-2018 19:27:27 Europe/Sofia] PHP Fatal error:  Call to undefined method Db::getAllClasses() in /home/spanelpw/public_html/functionality/results/add.php on line 32
+[24-Feb-2018 19:27:27 Europe/Sofia] PHP Fatal error:  Call to undefined method Db::getAllClasses() in /home/spanelpw/public_html/functionality/results/add.php on line 32
+[24-Feb-2018 19:29:49 Europe/Sofia] PHP Fatal error:  Call to undefined method Db::getAllClasses() in /home/spanelpw/public_html/functionality/results/add.php on line 32
+[24-Feb-2018 19:29:50 Europe/Sofia] PHP Fatal error:  Call to undefined method Db::getAllClasses() in /home/spanelpw/public_html/functionality/results/add.php on line 32
+[24-Feb-2018 19:29:50 Europe/Sofia] PHP Fatal error:  Call to undefined method Db::getAllClasses() in /home/spanelpw/public_html/functionality/results/add.php on line 32
+[24-Feb-2018 19:29:50 Europe/Sofia] PHP Fatal error:  Call to undefined method Db::getAllClasses() in /home/spanelpw/public_html/functionality/results/add.php on line 32
+[24-Feb-2018 19:33:09 Europe/Sofia] PHP Fatal error:  Call to undefined method Db::getAllClasses() in /home/spanelpw/public_html/functionality/results/add.php on line 32
+[24-Feb-2018 19:33:09 Europe/Sofia] PHP Fatal error:  Call to undefined method Db::getAllClasses() in /home/spanelpw/public_html/functionality/results/add.php on line 32
+[24-Feb-2018 19:33:10 Europe/Sofia] PHP Fatal error:  Call to undefined method Db::getAllClasses() in /home/spanelpw/public_html/functionality/results/add.php on line 32
+[24-Feb-2018 19:33:10 Europe/Sofia] PHP Fatal error:  Call to undefined method Db::getAllClasses() in /home/spanelpw/public_html/functionality/results/add.php on line 32
+[24-Feb-2018 19:33:10 Europe/Sofia] PHP Fatal error:  Call to undefined method Db::getAllClasses() in /home/spanelpw/public_html/functionality/results/add.php on line 32
+[24-Feb-2018 19:33:10 Europe/Sofia] PHP Fatal error:  Call to undefined method Db::getAllClasses() in /home/spanelpw/public_html/functionality/results/add.php on line 32

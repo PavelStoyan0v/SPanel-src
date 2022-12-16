@@ -1,0 +1,2 @@
+#1 - number of active subscriptions is more than 1 (in class Subscription.php - method isActive)
+we must make the design and the result system 

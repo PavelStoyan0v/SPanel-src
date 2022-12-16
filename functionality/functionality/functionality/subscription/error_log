@@ -1,0 +1,17 @@
+[11-Jan-2018 16:56:32 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[11-Jan-2018 16:56:39 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[11-Jan-2018 17:08:52 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[12-Jan-2018 13:17:12 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[12-Jan-2018 13:22:08 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(23): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/functionality/subscription/expired.php(7): Subscription->getLatest(NULL)
+#2 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[12-Jan-2018 13:27:13 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/spanelpw/public_html/functionality/subscription/verify.php:15) in /home/spanelpw/public_html/class/Session.php on line 2
+[16-Jan-2018 00:46:22 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'spanelpw_user_'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Subscription.php(23): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/functionality/subscription/expired.php(7): Subscription->getLatest(NULL)
+#2 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239

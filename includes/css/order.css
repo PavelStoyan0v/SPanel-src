@@ -1,0 +1,159 @@
+body {
+  background-color: #343a40;
+}
+
+.logo {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  display: block;
+  margin: 50px auto;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+.card-block {
+  padding: 20px !important;
+}
+
+.card {
+  margin-top: 80px;
+}
+
+.user {
+  float: right;
+}
+
+.method {
+  width: 150px;
+  height: 150px;
+  padding: 0;
+  opacity: 0.5;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.method-icon {
+  height: 75%;
+  font-size: 80px;
+  text-align: center;
+  line-height: 112.5px;
+}
+
+.method-body {
+  height: 25%;
+  text-align: center;
+  line-height: 37.5px;
+  font-weight: 600;
+}
+
+.method:hover {
+  opacity: 1;
+}
+
+.selected {
+  opacity: 1 !important;
+}
+
+.btn-forward {
+  float: right;
+}
+
+.controls {
+  margin-top: 20px;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+
+.info {
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+
+.checkmark {
+  width: 200px;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+
+.path {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 0;
+  animation: dash 2s ease-in-out;
+  -webkit-animation: dash 2s ease-in-out;
+}
+
+.spin {
+  animation: spin 2s;
+  -webkit-animation: spin 2s;
+  transform-origin: 50% 50%;
+  -webkit-transform-origin: 50% 50%;
+}
+
+.success {
+  font-family: sans-serif;
+  color: #28a745;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 20px auto;
+  text-align: center;
+  animation: text .5s linear .4s;
+  -webkit-animation: text .4s linear .3s;
+}
+
+@-webkit-keyframes dash {
+ 0% {
+   stroke-dashoffset: 1000;
+ }
+ 100% {
+   stroke-dashoffset: 0;
+ }
+}
+
+@keyframes dash {
+ 0% {
+   stroke-dashoffset: 1000;
+ }
+ 100% {
+   stroke-dashoffset: 0;
+ }
+}
+
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@-webkit-keyframes text {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1;
+  }
+
+
+  @keyframes text {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1;
+  }
+}

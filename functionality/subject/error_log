@@ -1,0 +1,13 @@
+[24-Feb-2018 12:20:59 Europe/Sofia] PHP Fatal error:  Call to a member function userdb() on null in /home/spanelpw/public_html/class/Db.php on line 350
+[24-Feb-2018 12:21:45 Europe/Sofia] PHP Fatal error:  Call to a member function userdb() on null in /home/spanelpw/public_html/class/Db.php on line 350
+[24-Feb-2018 12:26:47 Europe/Sofia] PHP Fatal error:  Call to undefined function coutn() in /home/spanelpw/public_html/class/Db.php on line 356
+[24-Feb-2018 12:27:20 Europe/Sofia] PHP Fatal error:  Call to undefined function coutn() in /home/spanelpw/public_html/class/Db.php on line 356
+[24-Feb-2018 12:27:36 Europe/Sofia] PHP Fatal error:  Call to undefined function coutn() in /home/spanelpw/public_html/class/Db.php on line 356
+[24-Feb-2018 15:56:44 Europe/Sofia] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'spanelpw_site'@'localhost' to database 'user_58'' in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php:239
+Stack trace:
+#0 /home/spanelpw/public_html/class/Db.php(26): Medoo\Medoo->__construct(Array)
+#1 /home/spanelpw/public_html/class/Db.php(404): Db->userdb('58')
+#2 /home/spanelpw/public_html/functionality/subject/addfunctionality.php(13): Db->setSubject('58', '\xD0\x93\xD0\xB5\xD0\xBE\xD0\xB3\xD1\x80\xD0\xB0\xD1\x84\xD0...')
+#3 {main}
+  thrown in /home/spanelpw/public_html/vendor/catfan/medoo/src/Medoo.php on line 239
+[24-Feb-2018 15:57:40 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/spanelpw/public_html/class/Db.php on line 289

@@ -1,0 +1,52 @@
+body {
+  background-color: #343a40;
+}
+
+.logo {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  display: block;
+  margin: 50px auto;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+.card-block {
+  padding: 20px !important;
+}
+
+.card {
+  margin-top: 80px;
+}
+
+.expired {
+  color: #ffc107;
+  font-weight: bold;
+}
+
+.active {
+  color: #28a745;
+  font-weight: bold;
+}
+
+.terminated {
+  color: #dc3545;
+  font-weight: bold;
+}
+
+.alert {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.user {
+  float: right;
+}
+
+.logout {
+  float: right;
+}
